@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Test.md",
+                "file": "New note for commit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Test"
+              "title": "New note for commit"
             }
           }
         ]
@@ -180,9 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7ada957cc77b24c",
+  "active": "67f1bda786addd82",
   "lastOpenFiles": [
-    "README.md",
-    "Git Test.md"
+    "Git Test.md",
+    "New note for commit.md",
+    "README.md"
   ]
 }
