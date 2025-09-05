@@ -13,44 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "New note for commit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New note for commit"
             }
           },
           {
-            "id": "bddc6da9512658d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git Test"
-            }
-          },
-          {
-            "id": "ffbe6ef3b3f9f512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git commit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git commit"
-            }
-          },
-          {
-            "id": "1b38ffd48aa08b6b",
+            "id": "9ca4ae57fd1e14ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,21 +36,21 @@
             }
           },
           {
-            "id": "7e736cb3f269430a",
+            "id": "085715feb2f776f9",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Git Test.md",
-                "bFile": "Git Test.md",
-                "aRef": ""
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Git Test"
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Git Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Git Test"
             }
           },
           {
@@ -236,13 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e736cb3f269430a",
+  "active": "085715feb2f776f9",
   "lastOpenFiles": [
     "SSRN Instructions.md",
     "conflict-files-obsidian-git.md",
-    "New note for commit.md",
-    "README.md",
     "Git commit.md",
-    "Git Test.md"
+    "New note for commit.md",
+    "Git Test.md",
+    "README.md"
   ]
 }
