@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d3ff4c0587bcac20",
+        "id": "9b75471ffcd6fe7d",
         "type": "tabs",
         "children": [
           {
-            "id": "67f1bda786addd82",
+            "id": "e7ae24a57af5468e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New note for commit.md",
+                "file": "The quick brown fox jumped over the lazy dog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New note for commit"
-            }
-          },
-          {
-            "id": "9ca4ae57fd1e14ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSRN Instructions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SSRN Instructions"
-            }
-          },
-          {
-            "id": "085715feb2f776f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "The quick brown fox jumped over the lazy dog"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Test.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Git Test"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -209,11 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "085715feb2f776f9",
+  "active": "a7ada957cc77b24c",
   "lastOpenFiles": [
-    "SSRN Instructions.md",
     "conflict-files-obsidian-git.md",
-    "Git commit.md",
+    "The quick brown fox jumped over the lazy dog.md",
+    "SSRN Instructions.md",
     "New note for commit.md",
     "Git Test.md",
     "README.md"
