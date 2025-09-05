@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Test.md",
+                "file": "New note for commit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Git Test"
+              "title": "Outline of New note for commit"
             }
           },
           {
@@ -182,8 +182,8 @@
   },
   "active": "67f1bda786addd82",
   "lastOpenFiles": [
-    "Git Test.md",
     "New note for commit.md",
-    "README.md"
+    "README.md",
+    "Git Test.md"
   ]
 }
