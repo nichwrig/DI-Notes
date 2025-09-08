@@ -4,4 +4,5 @@ We can change this.
 
 [!img] 
 
-I'm gonna make a change for once in my life. 
+### Using SSRN
+SSRN is a preprint electronic publisher which allows academics to publish writings before they are accepted for publication to a peer reviewed journal. In this way, academic writers can get feedback from gtheir 
