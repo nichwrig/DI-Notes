@@ -7,4 +7,5 @@ I. LibGuides Cleanup
 		We need a file server that is open on the web (meaning it has a public IP address) so that we can add (and easily modify) files like JSON files to our Libguides pages.
 	C. Reconfigure the Guide Template to be easier for Librarians to create content
 	D. Create a React demo for a brochure look for the faculty display 
+	E. 
 	
