@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Test.md",
+                "file": "The quick brown fox jumped over the lazy dog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Git Test"
+              "title": "Outgoing links from The quick brown fox jumped over the lazy dog"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "The quick brown fox jumped over the lazy dog.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of The quick brown fox jumped over the lazy dog"
             }
           },
           {
@@ -178,11 +178,10 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c700ecd63633871",
+  "active": "e7ae24a57af5468e",
   "lastOpenFiles": [
     "README.md",
     "Git Test.md",
