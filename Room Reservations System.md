@@ -11,4 +11,6 @@ That should be plenty of time, but I suppose the sooner we start on it the bette
 		4. Possibly some others
 		5. Defined locations (2nd Floor, 3rd Floor, etc)
 3. the setup is [here](https://fiulaw.libcal.com/admin/equipment/locations#s-lc-tab-locations)
-4. 
+4. We should work with John Gonzales and Lili Mesa in order to make sure that it's set up and working properly. 
+
+### Ideas
