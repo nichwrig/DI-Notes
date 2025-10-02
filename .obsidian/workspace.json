@@ -48,21 +48,9 @@
               "icon": "lucide-file",
               "title": "Room Reservations System"
             }
-          },
-          {
-            "id": "87ae8c9ffac7f8c7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,8 +210,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "87ae8c9ffac7f8c7",
+  "active": "55e1da4eb7ea13e4",
   "lastOpenFiles": [
+    "Untitled.md",
     "IR Audit.md",
     "Room Reservations System.md",
     "Epics-for-DigInt.md",
