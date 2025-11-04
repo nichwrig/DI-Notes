@@ -19,4 +19,6 @@ Law journals are unique in that they're not research they're just opinions. Othe
 ### Some talk about standards or accepting or rejecting journals in Scopus.
 - Here's another talk that I don't think will have almost no value for me.
 - It looks like she's talking about the acceptance of journals into Scopus. I'll try to find something of value in this presentation. 
+- This is not worth my time. I'm hoping for an opportunity to figure out what in the hell this is for and how I can benefit from being here, but now that is not going to heppen. 
+- 
 
