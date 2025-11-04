@@ -30,3 +30,7 @@ JFC: this is some uninteresting non-relevant stuff. :/.
 
  I guess what I need to understand from this is that Elsevier is a collection of journals and so their scope in pursuing digital commons is to push folks who manage digital commons to think of themselves as journal publishers and as each instance of digital commons to be treated like a journal. Therefore the manager of an Institutional Repository should view himself/herself as some kind of editor in chief. 
 
+### Ethics
+- Who cares? For whom does any of this matter?
+- 
+
