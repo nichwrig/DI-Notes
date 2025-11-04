@@ -34,3 +34,11 @@ JFC: this is some uninteresting non-relevant stuff. :/.
 - Who cares? For whom does any of this matter?
 > [!note] Okay. this might be useful. We should have a lot more policies available on dc. 
 
+I guess I'm learning some new things about publishing article online. There's a difference between a 'retraction' and an 'expression of concern.'
+
+So there some group of people who take online article publishing seriously and have established or at least recognize some rules/distinctions in how online publishing of academic articles is handled. 
+
+There's apparently no way to reverse a retraction. But there's a retraction of a retraction I guess. For this case we have 2 outcomes. The first one if the data is accurate, no misconduct happened the journal can publish a retraction of the retraction. 
+
+Or the 2nd is that there's still a concern maybe they can inform the author to publish a new publication to address all the concern related to the original article. 
+
