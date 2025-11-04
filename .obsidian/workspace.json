@@ -11,10 +11,14 @@
             "id": "bb2cc990880b4ac0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Elsevier Impact Conference.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Elsevier Impact Conference"
             }
           }
         ]
@@ -180,11 +184,11 @@
   },
   "active": "bb2cc990880b4ac0",
   "lastOpenFiles": [
+    "Epics-for-DigInt.md",
+    "Room Reservations System.md",
+    "Elsevier Impact Conference.md",
     "IR Audit.md",
     "README.md",
-    "Room Reservations System.md",
-    "Untitled.md",
-    "Epics-for-DigInt.md",
     "conflict-files-obsidian-git.md",
     "The quick brown fox jumped over the lazy dog.md",
     "Git Test.md",
