@@ -22,5 +22,8 @@ Law journals are unique in that they're not research they're just opinions. Othe
 - This is not worth my time. I'm hoping for an opportunity to figure out what in the hell this is for and how I can benefit from being here, but now that is not going to happen.
 
 JFC: this is some uninteresting non-relevant shit. :/. 
+
+### Publishing Journals
+- some more useless boring bs. 
 - 
 
