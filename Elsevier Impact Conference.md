@@ -1,7 +1,7 @@
-### Day One
-#### Introduction
+# Day One
+## Introduction
 
-#### Talk about Scopus Journals. 
+### Talk about Scopus Journals.  2025-11-04
 
 Okay, this is just talking about another thing that DC owns. 
 Here are a few things i might be able to take way
@@ -10,7 +10,9 @@ Here are a few things i might be able to take way
 
 > I'm beginning to get the feeling that folks don't really know what they're doing or why with these things. 
 
-> [!question] 
-> Would a law journal be in Scopus?
+Law journals are unique in that they're not research they're just opinions. Other journals are for the benefit of putative readers; law journals are for the benefit of the article writers. 
 
-Law journals are unique in that they're not research they're just opinions. 
+
+> [!question] What in the eff is this for?
+
+**Answer**: Who in the eff knows?
