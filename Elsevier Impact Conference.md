@@ -21,9 +21,12 @@ Law journals are unique in that they're not research they're just opinions. Othe
 - It looks like she's talking about the acceptance of journals into Scopus. I'll try to find something of value in this presentation. 
 - This is not worth my time. I'm hoping for an opportunity to figure out what in the hell this is for and how I can benefit from being here, but now that is not going to happen.
 
-JFC: this is some uninteresting non-relevant shit. :/. 
+JFC: this is some uninteresting non-relevant stuff. :/. 
 
 ### Publishing Journals
 - some more useless boring bs. 
-- 
+- 'Aim and Scope is the key to everything.' - What in the eff does this mean?
+- Dude is talking about setting up a Journal in Digital Commons and having like an editorial board and some stuff like that. 
+
+ I guess what I need to understand from this is that Else
 
