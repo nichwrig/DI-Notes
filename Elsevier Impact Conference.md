@@ -28,5 +28,5 @@ JFC: this is some uninteresting non-relevant stuff. :/.
 - 'Aim and Scope is the key to everything.' - What in the eff does this mean?
 - Dude is talking about setting up a Journal in Digital Commons and having like an editorial board and some stuff like that. 
 
- I guess what I need to understand from this is that Else
+ I guess what I need to understand from this is that Elsevier is a collection of journals and so their scope in pursuing digital commons is to push folks who manage digital commons to think of themselves as journal publishers and as each instance of digital commons to be treated like a journal. Therefore the manager of an Institutional Repository should view himself/herself as some kind of editor in chief. 
 
