@@ -32,5 +32,5 @@ JFC: this is some uninteresting non-relevant stuff. :/.
 
 ### Ethics
 - Who cares? For whom does any of this matter?
-- 
+> [!note] Okay. this might be useful. We should have a lot more policies available on dc. 
 
