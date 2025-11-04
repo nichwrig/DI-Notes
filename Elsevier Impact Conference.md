@@ -9,4 +9,8 @@ Here are a few things i might be able to take way
 - There's something called impact factor. 
 
 > I'm beginning to get the feeling that folks don't really know what they're doing or why with these things. 
-> 
+
+> [!question] 
+> Would a law journal be in Scopus?
+
+Law journals are unique in that they're not research they're just opinions. 
