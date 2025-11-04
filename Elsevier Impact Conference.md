@@ -16,3 +16,7 @@ Law journals are unique in that they're not research they're just opinions. Othe
 > [!question] What in the eff is this for?
 
 **Answer**: Who in the eff knows?
+### Some talk about standards or accepting or rejecting journals in Scopus.
+- Here's another talk that I don't think will have almost no value for me.
+- It looks like she's talking about the acceptance of journals into Scopus. I'll try to find something of value in this presentation. 
+
