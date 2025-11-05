@@ -47,3 +47,4 @@ Or the 2nd is that there's still a concern maybe they can inform the author to p
 - There's a new newest release of designs for journals.
   > This should be interesting. I think this in fact might be useful. 
 - Common Challenges: need for stable professional site, impact of journal 
+- The designs look better. Not great, but it looks better. I'm ready to update now. 
