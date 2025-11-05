@@ -42,3 +42,8 @@ There's apparently no way to reverse a retraction. But there's a retraction of a
 
 Or the 2nd is that there's still a concern maybe they can inform the author to publish a new publication to address all the concern related to the original article. 
 
+# Day 2
+### Journals Modules
+- There's a new newest release of designs for journals.
+  > This should be interesting. I think this in fact might be useful. 
+- Common Challenges: need for stable professional site, impact of journal 
