@@ -55,3 +55,6 @@ Or the 2nd is that there's still a concern maybe they can inform the author to p
 ## Institutional Repository Modules
 - Safeguarding access, integrity and security 
 - who's guarding the guardians?
+- There are things that they're doing. I suppose that's good.
+
+My biggest issue is that the company seems to want to push people to it's big dog platform, but there still needs to be digital provenance. 
