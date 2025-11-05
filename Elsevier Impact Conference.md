@@ -58,3 +58,10 @@ Or the 2nd is that there's still a concern maybe they can inform the author to p
 - There are things that they're doing. I suppose that's good.
 
 My biggest issue is that the company seems to want to push people to it's big dog platform, but there still needs to be digital provenance. 
+
+### Readership and Engagement with the IR
+- How to deepen user engagement with my DC. 
+- I don't know what this table is telling me. 
+	- New readers and general public. 
+- Digital commons does some shit automatically. But of course this is all old outdated shit. 
+- 
