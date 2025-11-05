@@ -50,4 +50,8 @@ Or the 2nd is that there's still a concern maybe they can inform the author to p
 - The designs look better. Not great, but it looks better. I'm ready to update now. 
 
 ## Repository Modules
-- 
+- bait and switch advertisement for transition to pure
+
+## Institutional Repository Modules
+- Safeguarding access, integrity and security 
+- who's guarding the guardians?
