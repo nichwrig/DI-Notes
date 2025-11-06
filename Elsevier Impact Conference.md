@@ -74,3 +74,6 @@ My biggest issue is that the company seems to want to push people to it's big do
 	- more self service
 - DC Roadmap
 	- Still on delivering enhancement and improvements across all segments of the platform. But seem to be taking a longer time than would be optimal. IR, Journal Designs, adding functionality for different media types like audio, archiving needs. 
+	- **Research Integrity**: working on bringing RI tools into DC.
+	- **Journals Portal**: for networking
+	- 
