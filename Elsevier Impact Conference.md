@@ -64,4 +64,13 @@ My biggest issue is that the company seems to want to push people to it's big do
 - I don't know what this table is telling me. 
 	- New readers and general public. 
 - Digital commons does some shit automatically. But of course this is all old outdated shit. 
-- 
+
+## Day 3
+
+### Dashboard
+- They've updated the dashboard apparently.
+	- different views in the dashboard
+	- enhanced visuals
+	- more self service
+- DC Roadmap
+	- Still on delivering enhancement and improvements across all segments of the platform. But seem to be taking a longer time than would be optimal. IR, Journal Designs, adding functionality for different media types like audio, archiving needs. 
